@@ -1,12 +1,7 @@
-# test 1
+# basic test
 ## setup
-Describe your test setup
+connected to 5V
 ## results
-Describe your results
+3.3V works
 
 
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
